@@ -1,11 +1,1 @@
-サaaaaaaル先生のGitコマンド
-aaaaaaa
-add 2
-aaaaaaaaaaaaa
-add 3
-add tutorial2
-add 20220107
-echo hogehoge:
-edit tutorial2
-add 20220111
-add 20220111_2
+aaaaa
