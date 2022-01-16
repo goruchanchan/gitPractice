@@ -1,4 +1,4 @@
-サル先生のGitコマンド
+サaaaaaaル先生のGitコマンド
 add 2
 add 3
 add tutorial2
